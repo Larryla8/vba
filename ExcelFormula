@@ -1,0 +1,3 @@
+
+'countif(range,serach_condition)
+=COUNTIF(C2:C20024,B2:B834)
